@@ -1,5 +1,7 @@
 {
-  "extensions": { "recommendations": [] },
+  "extensions": {
+    "recommendations": ["cweijan.vscode-autohotkey-plus"]
+  },
   "folders": [
     {
       "path": "."
