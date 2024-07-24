@@ -15,6 +15,6 @@ F8::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-note\nghia
 
 ; F9::Run, python %A_Desktop%\github\nghia-step-recorder\contents\nghia-step-recorder.py
 ; F10::Run, python %A_Desktop%\github\nghia-step-recorder\contents\nghia-step-recorder.py
-F11::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-github-template\nghia-github-template.code-workspace
+F11::Run, python C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-github-template\contents\windows.py
 ; F12::Run, python %A_Desktop%\github\nghia-github-template\contents\nghia-github-template.py
 ; ====================================================================================================================================
