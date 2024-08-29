@@ -1,15 +1,6 @@
 import os
 
 
-
-
-
-
-
-
-
-
-
 # Đường dẫn đến thư mục Startup
 startup = os.path.join(os.environ['APPDATA'], r'Microsoft\Windows\Start Menu\Programs\Startup')
 print(f"🚀 {startup}")
@@ -19,8 +10,6 @@ print(f"🚀 {nghia_ahk_link}")
 
 nghia_ahk = os.path.join(os.getcwd(), "nghia-windows-autohotkey.ahk")
 print(f"🚀 {nghia_ahk}")
-
-
 
 
 try:

@@ -14,7 +14,13 @@ F6::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-note\nghia
 F8::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-english\nghia-english.code-workspace
 
 ; F9::Run, python %A_Desktop%\github\nghia-step-recorder\contents\nghia-step-recorder.py
-F10::Run, python C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-extensions-delete-empty-folder\contents\nghia-extensions-delete-empty-folder.py
+F10::
+Run, python C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-extensions-delete-empty-folder\contents\nghia-extensions-delete-empty-folder.py
+
+
+hướng dẫn autohotkey
+
+
 F11::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-windows-autohotkey\contents\f11.bat
 ; F12::Run, python %A_Desktop%\github\nghia-github-template\contents\nghia-github-template.py
 ; ====================================================================================================================================
