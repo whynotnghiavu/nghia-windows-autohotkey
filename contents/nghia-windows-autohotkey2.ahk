@@ -21,7 +21,7 @@ F3::Run, python C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-wif
 F4::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-github-push\nghia-github-push.code-workspace
 F6::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-note\nghia-note.code-workspace
 
-F8::Run,  C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-windows-autohotkey\contents\f8.bat
+F8::Run,  C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-windows-autohotkey\contents\f8_VideoWatch.vbs
 ; ====================================================================================================================================
 ; ====================================================================================================================================
 ; ====================================================================================================================================
@@ -35,6 +35,6 @@ F10:: Run, python C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-e
 ; ====================================================================================================================================
 ; ====================================================================================================================================
 
-F11::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-windows-autohotkey\contents\f11.bat
+F11::Run, C:\Users\vvn20206205\Downloads\Nghia\Git\whynotnghiavu\nghia-windows-autohotkey\contents\f11_nghia-github-template.bat
 F12::Run,   https://www.overleaf.com/project
 ; ====================================================================================================================================
